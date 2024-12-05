@@ -1,0 +1,18 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+h1 {
+	font-size:50px;
+}
+
+#akter {
+	color:orange;
+	font-size:80px;
+}
+
+.nafi{
+	display-flex
+}
+	
